@@ -22,7 +22,7 @@
     },
     "dependencies": {
         "disposable-email": "^0.2.3",
-        "highcharts": "^10.0.0",
+        "highcharts": "^10.2.1",
         "onscan.js": "^1.5.2"
     }
 }
